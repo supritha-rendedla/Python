@@ -1,0 +1,6 @@
+text=" Supritha".lstrip()
+print(text)
+text="Supritha ".rstrip()
+print(text)
+text=" Supritha ".strip()
+print(text)
